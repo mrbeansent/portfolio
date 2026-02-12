@@ -6,7 +6,7 @@ const person: Person = {
   lastName: "Canas",
   name: `Amiel Vincent Canas`,
   role: "Design Engineer",
-  avatar: "/images/avatar.jpg",
+  avatar: "/images/avatar.jpeg",
   email: "vincentcanas@gmail.com",
   location: "Asia/Manila", // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
   languages: ["English", "Filipino"], // optional: Leave the array empty if you don't want to display languages
@@ -25,13 +25,13 @@ const social: Social = [
   {
     name: "GitHub",
     icon: "github",
-    link: "https://github.com/once-ui-system",
+    link: "https://github.com/mrbeansent",
     essential: true,
   },
   {
     name: "LinkedIn",
     icon: "linkedin",
-    link: "https://www.linkedin.com/company/once-ui/",
+    link: "https://www.linkedin.com/in/amiel-vincent-canas/",
     essential: true,
   },
   {
@@ -44,7 +44,7 @@ const social: Social = [
     name: "Threads",
     icon: "threads",
     link: "https://www.threads.com/@once_ui",
-    essential: true,
+    essential: false,
   },
   {
     name: "Email",
