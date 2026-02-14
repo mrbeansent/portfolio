@@ -60,7 +60,7 @@ const home: Home = {
   label: "Home",
   title: `${person.name}'s Portfolio`,
   description: `Portfolio website showcasing my work as a ${person.role}`,
-  headline: <>Building bridges between design and code</>,
+  headline: <>Building scalable solutions from concept to deployment</>,
   featured: {
     display: true,
     title: (
@@ -76,7 +76,7 @@ const home: Home = {
   },
   subline: (
     <>
-    I'm Vincent, a Web Developer & Project Manager at <Text as="span" size="xl" weight="strong">ONCE UI</Text>, where I craft intuitive <br /> user experiences. After hours, I build my own projects.
+    I'm Vincent, a Full-Stack Web Developer and Site Reliability Engineer based in Cebu, Philippines. With 7+ years of experience, I specialize in building high-performance web applications using Next.js, WordPress, and modern JavaScript frameworks while ensuring they stay reliable, fast, and secure in production.
 </>
   ),
 };
